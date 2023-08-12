@@ -1,7 +1,7 @@
 # photography-site
 my simple photography site
 
-my name is Fedelis Muingo.I have a great passion for photography.
+my name is Fedelis Muingo. I have a great passion for photography.
 
 I am located in Nairobi CBD.
 I am a certified photographer. I studied at the University of Nairobi and hence I'm out here showcasing my skills.
